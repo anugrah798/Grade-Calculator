@@ -1,1 +1,1 @@
-# Grade-Calculator
+# javascript assignment 1
